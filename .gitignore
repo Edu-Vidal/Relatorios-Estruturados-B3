@@ -1,2 +1,7 @@
 /cache/
 /config/development/
+/data
+*.log
+
+/.venv
+/.vscode
